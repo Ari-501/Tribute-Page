@@ -1,4 +1,4 @@
-Responsive Web Design - Tribute Page
+# Responsive Web Design - Tribute Page
 
 Solution Link (live link): https://arig501.github.io/Tribute-Page/
 
