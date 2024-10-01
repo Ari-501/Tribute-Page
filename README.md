@@ -1,6 +1,6 @@
 # Responsive Web Design - Tribute Page
 
-Solution Link (live link): https://arig501.github.io/Tribute-Page/
+Solution Link (live link): https://ari-501.github.io/Tribute-Page/
 
 Objective: Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
 
